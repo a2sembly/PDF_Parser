@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_Parser", "PDF_Parser\PDF_Parser.csproj", "{9CD7BD2F-3CDA-4CCE-AC51-26E63A157E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD7BD2F-3CDA-4CCE-AC51-26E63A157E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD7BD2F-3CDA-4CCE-AC51-26E63A157E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD7BD2F-3CDA-4CCE-AC51-26E63A157E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD7BD2F-3CDA-4CCE-AC51-26E63A157E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A843355-262B-4678-BA81-33A82501F895}
+	EndGlobalSection
+EndGlobal
